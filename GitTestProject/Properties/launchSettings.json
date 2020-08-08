@@ -23,6 +23,13 @@
       },
       "applicationUrl": "http://localhost:5000"
     },
+    "Azure Dev Spaces": {
+      "commandName": "AzureDevSpaces",
+      "launchBrowser": true,
+      "resourceGroup": "Myres-grp-kubernet",
+      "aksName": "testkubercluster",
+      "subscriptionId": "1a92244a-98e6-4da4-b716-3258fe0f764d"
+    },
     "Docker": {
       "commandName": "Docker",
       "launchBrowser": true,
